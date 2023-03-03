@@ -2,10 +2,11 @@
 
 .PageButton{
     margin: 0.8vw;
-    padding: 0.2vw;
+    padding: 0.3vw;
     font-size: larger;
     color: #68f267;
     border: #68f267 solid 2px;
+    border-radius: 30px;
     
 
 }
