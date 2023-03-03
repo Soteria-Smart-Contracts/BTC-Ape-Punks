@@ -1,6 +1,7 @@
 
 
 .PageButton{
+    display: inline-block;
     margin: 0.8vw;
     padding: 0.5vw;
     padding-left: 15px;
