@@ -15,6 +15,10 @@
 
 }
 
+.RoadmapImg{
+    width: 50vw;
+}
+
 @media (pointer:none), (pointer:coarse) {
 
     .RoadmapImg{
