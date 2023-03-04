@@ -17,6 +17,8 @@
 
 @media (pointer:none), (pointer:coarse) {
 
-    .RoadmapImg
+    .RoadmapImg{
+        width: 90vw;
+    }
 
 }
