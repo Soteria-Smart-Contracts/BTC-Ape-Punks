@@ -20,7 +20,7 @@
 }
 
 .TeamImg{
-    width: 30vw;
+    width: 25vw;
 }
 
 @media (pointer:none), (pointer:coarse) {
@@ -29,7 +29,7 @@
         width: 100vw;
     }
     .TeamImg{
-        width: 60vw;
+        width: 50vw;
     }
 
 }
