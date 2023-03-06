@@ -20,13 +20,16 @@
 }
 
 .TeamImg{
-    
+    width: 30vw;
 }
 
 @media (pointer:none), (pointer:coarse) {
 
     .RoadmapImg{
         width: 100vw;
+    }
+    .TeamImg{
+        width: 60vw;
     }
 
 }
